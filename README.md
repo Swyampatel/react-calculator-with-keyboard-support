@@ -71,7 +71,7 @@ This project showcases my ability to:
 2. Solve real-world problems using best practices in state management and event handling.
 3. Design responsive and visually appealing UIs that function seamlessly across devices.
 
-It highlights my technical expertise, attention to detail, and passion for creating interactive web applications that deliver a great user experience.
+It highlights my technical expertise, attention to detail and passion for creating interactive web applications that deliver a great user experience.
 
 ---
 
